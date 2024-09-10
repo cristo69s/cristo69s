@@ -5,3 +5,5 @@
 
 ⚡ me gusta el surf 🤙🏼
 
+https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+
