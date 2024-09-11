@@ -18,7 +18,7 @@ IMG_4125.png
 
 
 <p align="center">
-    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+    <img width="200" src="https://raw.githubusercontent.com/cristo69s/cristo69s/main/IMG_4125.png">
 </p>
 
 
