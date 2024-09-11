@@ -3,7 +3,7 @@
 
 🌱 estoy aprendiendo programacion y nuevos metodos de aprendizaje y de resolucion de problemas 
 
-⚡ me gusta el surf 🤙🏼
+⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️
 
 
 ## me puedes contactar en;
