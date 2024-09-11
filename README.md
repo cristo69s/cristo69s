@@ -15,11 +15,13 @@
 
 
 <p align="center">
-  <img src="[https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg](https://raw.githubusercontent.com/cristo69s/cristo69s/main/IMG_4125.png)" height="200"/>
+  <img src="(https://raw.githubusercontent.com/cristo69s/cristo69s/main/IMG_4125.png)" height="200"/>
 </p>
 
 
-
+<p align="center">
+    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+</p>
 
 
 
