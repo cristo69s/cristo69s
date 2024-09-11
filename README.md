@@ -14,9 +14,7 @@
 
 
 
-<p align="center">
-  <img src="(https://raw.githubusercontent.com/cristo69s/cristo69s/main/IMG_4125.png)" height="200"/>
-</p>
+IMG_4125.png
 
 
 <p align="center">
