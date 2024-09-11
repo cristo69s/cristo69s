@@ -14,7 +14,6 @@
 
 
 
-IMG_4125.png
 
 
 <p align="center">
